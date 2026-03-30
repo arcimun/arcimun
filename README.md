@@ -1,30 +1,38 @@
-<div align="center">
+# Hi, I'm Artur Hapantsou
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1500&color=E8722A&center=true&vCenter=true&multiline=false&width=500&height=35&lines=AI+Systems+Builder;Personal+AI+Infrastructure;Making+the+invisible+visible" alt="Typing SVG" /></a>
+I believe AI is the most powerful catalyst for human transformation we've ever had.
 
-</div>
+Most people use AI to automate tasks — write faster, code faster, schedule faster. That's useful, but it misses the bigger picture. AI can help people discover who they actually are — their purpose, their gifts, the things buried under years of conformity and noise.
+
+I'm building AI systems that don't just assist — they remember, think, and operate alongside their human. Not chatbots. Operational partners that manage research, business, and life infrastructure autonomously.
+
+That's what I'm working on: helping humans upgrade themselves for a world where AI handles the routine work.
 
 ---
 
-I build AI systems that remember, think, and act alongside their human.
+## What I'm Building
 
-Not chatbots. Not assistants. Operational partners that manage research,
-business, and life infrastructure autonomously.
+**[Ember](https://github.com/arcimun/ember)** is voice-to-text for macOS — press a key, speak, text appears in any app. Fast. Beautiful. Free. No cloud, no subscription, no latency.
 
-### Currently Building
+**[Arcimun](https://arcimun.com)** is a personal AI platform — a multi-agent system with persistent memory, autonomous operation, and deep context about its human. Think Jarvis, but real and running locally.
 
-**[Ember](https://github.com/arcimun/ember)** — Voice to text for macOS. Press, speak, text appears in any app. Fast. Beautiful. Free.
+**[Disclosure Project](https://t.me/disclosure_x)** is a Russian-language research media channel covering UAP/UFO disclosure, consciousness studies, and ancient civilizations.
 
-**[Arcimun](https://arcimun.com)** — Personal AI platform. Multi-agent system with memory, tools, and autonomous operation.
+## Projects
 
-### Research
+| Project | What It Does |
+|---------|-------------|
+| [Ember](https://github.com/arcimun/ember) | Voice to text for macOS — press, speak, text appears |
+| [Arcimun](https://arcimun.com) | Personal AI platform with memory and autonomous agents |
+| [Disclosure](https://t.me/disclosure_x) | Research media: UAP, consciousness, ancient knowledge |
 
-UAP/Disclosure  ·  Consciousness  ·  Ancient Civilizations  ·  Biohacking  ·  Esoteric Traditions
+## Research Interests
 
-### Connect
+UAP/Disclosure · Consciousness & Remote Viewing · Ancient Civilizations · Biohacking & Longevity · Gnosticism & Esoteric Traditions · AI-Human Symbiosis
 
-[![Telegram](https://img.shields.io/badge/Telegram-arcimun-E8722A?style=flat-square&logo=telegram&logoColor=white)](https://t.me/arcimun)
-[![Website](https://img.shields.io/badge/Web-arcimun.com-E8722A?style=flat-square&logo=safari&logoColor=white)](https://arcimun.com)
+## Connect
+
+[Website](https://arcimun.com) · [Telegram](https://t.me/arcimun) · [X](https://x.com/arcimun_ai) · [Disclosure Channel](https://t.me/disclosure_x)
 
 ---
 
