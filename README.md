@@ -1,38 +1,36 @@
-# Hi, I'm Artur Hapantsou
+# Hi, I'm Artur
 
-I believe AI is the most powerful catalyst for human transformation we've ever had.
+I spent 10 years building e-commerce brands from scratch — scaled a DTC portfolio from $1M to 8 figures, managed teams of 60, optimized every metric that exists. Then I realized I was optimizing the wrong things.
 
-Most people use AI to automate tasks — write faster, code faster, schedule faster. That's useful, but it misses the bigger picture. AI can help people discover who they actually are — their purpose, their gifts, the things buried under years of conformity and noise.
+The identity most people build — their title, their place in a hierarchy, their usefulness to an organization — is about to collapse. AI will automate most of it. That's not a threat. It's a liberation, if we use it right.
 
-I'm building AI systems that don't just assist — they remember, think, and operate alongside their human. Not chatbots. Operational partners that manage research, business, and life infrastructure autonomously.
+I'm now building AI systems that operate alongside their human — not as chatbots or assistants, but as autonomous partners with persistent memory, real tools, and deep understanding of who you are. Systems that free you to focus on what actually matters: your purpose, your craft, the things you'd pursue even if nobody paid you.
 
-That's what I'm working on: helping humans upgrade themselves for a world where AI handles the routine work.
+First-gen immigrant. Belarus → California. Self-taught in everything that matters.
 
 ---
 
 ## What I'm Building
 
-**[Ember](https://github.com/arcimun/ember)** is voice-to-text for macOS — press a key, speak, text appears in any app. Fast. Beautiful. Free. No cloud, no subscription, no latency.
+**[Arcimun](https://arcimun.com)** — Personal AI platform. Multi-agent system that remembers everything, operates autonomously, and manages research, business, and life infrastructure. Not another wrapper around ChatGPT. A local-first AI operating system built for depth.
 
-**[Arcimun](https://arcimun.com)** is a personal AI platform — a multi-agent system with persistent memory, autonomous operation, and deep context about its human. Think Jarvis, but real and running locally.
+**[Ember](https://github.com/arcimun/ember)** — Voice to text for macOS. Press a key, speak, text appears — in any app. No cloud. No subscription. No latency. Just works.
 
-**[Disclosure Project](https://t.me/disclosure_x)** is a Russian-language research media channel covering UAP/UFO disclosure, consciousness studies, and ancient civilizations.
+**[Проект Раскрытие](https://t.me/disclosure_x)** — Russian-language research channel on UAP disclosure, consciousness, and ancient civilizations. Evidence-based, no hype.
 
-## Projects
+## Research
 
-| Project | What It Does |
-|---------|-------------|
-| [Ember](https://github.com/arcimun/ember) | Voice to text for macOS — press, speak, text appears |
-| [Arcimun](https://arcimun.com) | Personal AI platform with memory and autonomous agents |
-| [Disclosure](https://t.me/disclosure_x) | Research media: UAP, consciousness, ancient knowledge |
+I spend serious time investigating things most people dismiss too quickly:
 
-## Research Interests
-
-UAP/Disclosure · Consciousness & Remote Viewing · Ancient Civilizations · Biohacking & Longevity · Gnosticism & Esoteric Traditions · AI-Human Symbiosis
+- **UAP/Disclosure** — congressional hearings, whistleblowers, AARO, the evidence trail
+- **Consciousness** — remote viewing, Gateway Process, psi research
+- **Ancient civilizations** — Gobekli Tepe, Baalbek, Puma Punku, pre-flood cultures
+- **AI-human symbiosis** — what happens when your AI knows you better than you know yourself
+- **Biohacking** — 14+ years of self-experimentation, longevity protocols
 
 ## Connect
 
-[Website](https://arcimun.com) · [Telegram](https://t.me/arcimun) · [X](https://x.com/arcimun_ai) · [Disclosure Channel](https://t.me/disclosure_x)
+[Website](https://arcimun.com) · [Telegram](https://t.me/arcimun) · [X](https://x.com/_optimyst) · [LinkedIn](https://linkedin.com/in/ihyart) · [Disclosure Channel](https://t.me/disclosure_x)
 
 ---
 
